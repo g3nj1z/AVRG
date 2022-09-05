@@ -4,6 +4,8 @@ still in development
 1st Step
 Build Django Web 
 
+also check pwndoc for references
+
 2nd Step
 wkhtmltopdf
 
