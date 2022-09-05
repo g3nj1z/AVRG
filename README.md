@@ -1,6 +1,8 @@
 # Automatic-VAPT-Report-Generator
 still in development
 
+https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
+
 1st Step
 Build Django Web 
 
