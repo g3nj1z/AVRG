@@ -20,5 +20,10 @@ chart.js for chart generate https://github.com/jakupierblina/Youtube-expert-assi
 3rd Step
 Make first demo
 
+## Gantt Chart
+- study
+- develop
+- enchancement
+
 ## References
 https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
