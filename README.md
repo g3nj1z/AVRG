@@ -17,5 +17,7 @@ https://youtu.be/6yTYP39d9Gs > use this concept to learn how to use .csv to gene
 
 wkhtmltopdf
 
+chart.js for chart generate https://github.com/jakupierblina/Youtube-expert-assist-
+
 3rd Step
 Make first demo
