@@ -5,6 +5,7 @@ https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-djan
 
 1st Step
 Build Django Web 
+study using https://youtu.be/w8q0C-C1js4
 
 also check pwndoc for references
 
