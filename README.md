@@ -1,8 +1,6 @@
 # Automatic-VAPT-Report-Generator
 still in development
 
-https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
-
 1st Step
 Build Django Web 
 study using https://youtu.be/w8q0C-C1js4
@@ -21,3 +19,6 @@ chart.js for chart generate https://github.com/jakupierblina/Youtube-expert-assi
 
 3rd Step
 Make first demo
+
+## References
+https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
