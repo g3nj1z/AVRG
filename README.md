@@ -7,6 +7,16 @@ Open-source generator that public can use
 ## Project Planning Approaches
 Study & Research about Django Web > RnD all possible Concepts > Implementation Accumulated Data in Project > Build 1st Demo > Test & Debug System > Find loophole > Focus visualization > Project Enchancement > Finalize Project > QA Testing > Deploy Project in Staging Environment > Clone & Deploy in Actual Environment > DR monthly
 
+## Study & Research about Django Web
+
+### Start from the Basics
+
+### Learn Django
+
+### Advanced Django
+
+### Databases
+
 ## References
 
 ### Learn and research how to build Django Web Development from Zero
