@@ -27,7 +27,7 @@ Activate Virtual Environment:
 
     source venv/bin/activate
 
-You can deactivate using > source venv/bin/deactivate
+You can deactivate using `source venv/bin/deactivate`
 
 - Enchancing application with advanced features
 - Extending application
