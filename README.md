@@ -39,6 +39,11 @@ Python = Intermediate
 - Object Oriented Python
 
 ### Learn Django
+- Building an application
+- Enchancing application with advanced features
+- Extending application
+- Sharing content on application
+- Tracking user actions
 
 ### Advanced Django
 
