@@ -5,7 +5,7 @@ still in development
 Open-source generator that public can use
 
 ## Planning Project Approaches
-Study & Research about Django Web > RnD all possible Concepts > Implementation Accumulated Data in Project > Build 1st Demo > Find loophole and visualization > Project Enchancement > Finalize Project > Deploy Project in Webpage 
+Study & Research about Django Web > RnD all possible Concepts > Implementation Accumulated Data in Project > Build 1st Demo > Test & Debug System > Find loophole > Focus visualization > Project Enchancement > Finalize Project > Deploy Project in Webpage 
 
 ## References
 
