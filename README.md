@@ -11,6 +11,12 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 
 ### Learn Django
 - Building an application
+
+Creating an isolated Python environment
+    python3 -m venv my_env
+
+This will create a my_env/ directory, including Py environment. Any Py libs installed while virtual environment is active will go into my_env/lib/pythonblabla/site-packages directory
+
 - Enchancing application with advanced features
 - Extending application
 - Sharing content on application
