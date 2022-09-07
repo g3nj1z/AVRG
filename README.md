@@ -33,6 +33,13 @@ Unary Operators
     console.log(+f); // value f = 0
     console.log(+t) // value t = 1
 
+    let product = {
+    valueOf: function () {
+    return 60;
+    }
+    };
+    console.log(+product); // value product = 60
+
 Assignment Operators
 
 Comparison Operators
