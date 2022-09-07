@@ -13,6 +13,9 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 cs50w - Django
 https://youtu.be/w8q0C-C1js4
 
+Example Project(s)
+https://github.com/sclorg/django-ex
+
 ### Available public open source report generator
 pwndoc
 <link>
