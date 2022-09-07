@@ -14,7 +14,7 @@ HTML = Master
 CSS = Master
 
 Javascript = Beginner
-- Operators
+[X] Operators
 - Program flow
 - Strings
 - Arrays
