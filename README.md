@@ -25,6 +25,9 @@ Unary Operators
 | prefix / postfix increments (++) | add pne to its operand |
 | prefix / postfix decrements (--) | subtract one from its operand |
 
+let s = '10';
+console.log(+s); // this value shows that s = 10
+
 Assignment Operators
 
 Comparison Operators
