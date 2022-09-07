@@ -1,30 +1,13 @@
 # Automatic-VAPT-Report-Generator
 still in development
 
-Objectives
+## Objectives
 Open-source generator that public can use
 
-1st Step
-Build Django Web 
-study using 
+## Method Approaches
 
-also check pwndoc for references
-
-> graph
-
-2nd Step
-
- > use this concept to learn how to use .csv to generate output
-
-chart.js for chart generate 
-
-3rd Step
-Make first demo
-
-## Gantt Chart
-- study
-- develop
-- enchancement
+## Planning
+Study & Research about Django Web > RnD all possible Concepts > Apply Accumulated Data in Project > Build 1st Demo > Project Enchancement > Finalize Project > Deploy
 
 ## References
 
