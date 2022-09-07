@@ -4,9 +4,7 @@ still in development
 ## Objectives
 Open-source generator that public can use
 
-## Method Approaches
-
-## Planning
+## Planning Project Approaches
 Study & Research about Django Web > RnD all possible Concepts > Apply Accumulated Data in Project > Build 1st Demo > Project Enchancement > Finalize Project > Deploy
 
 ## References
