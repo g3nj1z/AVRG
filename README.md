@@ -45,9 +45,9 @@ Python = Intermediate
 - Sharing content on application
 - Tracking user actions
 
-### Advanced Django
-
-### Databases
+### Learn Databases
+- MySQL
+- PostgreSQL
 
 ## References
 
