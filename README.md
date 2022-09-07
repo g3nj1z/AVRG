@@ -25,8 +25,13 @@ Unary Operators
 | prefix / postfix increments (++) | add pne to its operand |
 | prefix / postfix decrements (--) | subtract one from its operand |
 
-let s = '10';
-console.log(+s); // this value shows that s = 10
+    let s = '10';
+    console.log(+s); // this value shows that s = 10
+
+    let f = false,
+    t = true;
+    console.log(+f); // value f = 0
+    console.log(+t) // value t = 1
 
 Assignment Operators
 
