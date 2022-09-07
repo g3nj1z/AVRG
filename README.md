@@ -10,6 +10,33 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 ## Study & Research about Django Web
 
 ### Start from the Basics
+HTML = Master
+CSS = Master
+
+Javascript = Beginner
+- Operators
+- Program flow
+- Strings
+- Arrays
+- Functions
+- Objects & Prototypes
+- Advanced Functions
+- Error handling
+- Regular Expressions
+- Network Requests
+- Javascript Runtime
+
+Python = Intermediate
+- Basics
+- Control Structure
+- Data & Operations
+- Functions
+- Lists
+- File Handling
+- Audio
+- OOP
+- Advanced
+- Object Oriented Python
 
 ### Learn Django
 
