@@ -12,6 +12,11 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 ### Learn Django
 - Building an application
 
+Installation
+
+    apt install python3.10-venv
+    pip3 install virtualenv
+
 Creating an isolated Python environment
 
     python3 -m venv my_env
