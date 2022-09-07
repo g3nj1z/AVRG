@@ -18,6 +18,13 @@ Javascript = Beginner
 
 Unary Operators
 
+| Operators | Description |
+|--|--|
+| unary plus (+) | convert an operand into a number |
+| unary minus (-) | convert an operand into a number and negate the value |
+| prefix / postfix increments (++) | add pne to its operand |
+| prefix / postfix decrements (--) | subtract one from its operand |
+
 Assignment Operators
 
 Comparison Operators
