@@ -17,7 +17,7 @@ Installation
     apt install python3.10-venv
     pip3 install virtualenv
 
-Creating an isolated Python environment
+Creating an isolated virtual Python environment
 
     python3 -m venv my_env
 
