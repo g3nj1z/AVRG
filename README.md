@@ -34,13 +34,21 @@ You can deactivate using `source venv/bin/deactivate`
     django-admin startproject mysite
 
 Project structure generated:
+
 manage.py : No need to edit this file
+
 __init__.py : Empty file that tells Python to treat as a Python module.
+
 asgi.py : The configuration to run project as ASGI (Asynchronous Web Servers & Applications)
+
 wsgi.py : The configuration to run project as WSGI (Web Server Gateway Interface)
+
 settings.py : The settings and configuration for project and contains initial default settings
+
 urls.py : The place where URL patterns live. Each URL mapped to a view.
 
+    cd mysite
+    python3 manage.py migrate
 
 - Enchancing application with advanced features
 - Extending application
