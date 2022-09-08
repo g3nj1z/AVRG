@@ -50,6 +50,10 @@ urls.py : The place where URL patterns live. Each URL mapped to a view.
     cd mysite
     python3 manage.py migrate
 
+### Running the deployment server
+
+    python3 manage.py runserver
+
 - Enchancing application with advanced features
 - Extending application
 - Sharing content on application
