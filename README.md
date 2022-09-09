@@ -27,6 +27,10 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 ### Installation
 Production?
 
+Libary
+
+    pip3 install pdfkit
+
 ### Roles
 List of permissions:
 1. Vulnerabilities
