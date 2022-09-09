@@ -2,7 +2,7 @@
 still in development
 
 ## Objectives
-Open-source generator that public can use
+Open-source generator that public can use / build custom for companies template
 
 ## Project Planning Approaches
 Study & Research about Django Web > RnD all possible Concepts > Implementation Accumulated Data in Project > Build 1st Demo > Test & Debug System > Find loophole > Focus visualization > Project Enchancement > Finalize Project > QA Testing > Deploy Project in Staging Environment > Clone & Deploy in Live Environment > DR monthly
@@ -25,6 +25,28 @@ List of permissions:
 2. Settings
 - settings:read
 - settings:update
+
+### Vulnerabilities
+- Create
+When creating a Vulnerability, a Category must be selected (or No Category)
+
+A Vulnerability is defined by:
+
+    Title
+    Type
+    Language
+    Description
+    Observation
+    CVSS
+    Remediation
+    Remediation Complexity
+    Remediation Priority
+    References
+    Category
+    
+- Import/Export
+- Merge
+- Validate
 
 ### Authentication and Authorization
 
