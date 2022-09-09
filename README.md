@@ -22,7 +22,7 @@ https://github.com/sclorg/django-ex
 
 ### Available public open source report generator
 pwndoc
-<link>
+https://github.com/pwndoc/pwndoc
 
 ### Export Django from html to pdf
 wkhtmltopdf
