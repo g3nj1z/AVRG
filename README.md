@@ -1,6 +1,13 @@
 # Automatic-VAPT-Report-Generator
 still in development
 
+avrg (automatic-VAPT-report-generator), a custom reporter for use with the Python Django framework. AVRG takes the test output from test and generates a full fledged PDF report that helps visualize your business cases.
+
+## Features
+- Simple, clean, and modern design
+- test
+- test
+
 ## Objectives
 Open-source generator that public can use / build custom for companies template
 
