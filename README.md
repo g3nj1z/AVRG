@@ -13,6 +13,10 @@ AVRG (automatic-VAPT-report-generator), a custom reporter for use with the Pytho
 ## Objectives
 Open-source generator that public can use / build custom for companies template
 
+Mcm 'reporting biasa' tapi gunakan server website utk run GPU supaya tak perlu nak guna laptop (boleh guna hp sahaja utk generate report)
+Disebabkan jika report terlampau banyak finding menyebabkan sesetengah employee tak dpt nk generate report (laptop hang)
+Tak perlu simpan pdf dlm databases, selepas siap letak dia dlm /tmp then lepas emplyee download, dia akan auto delete (Integrity selamat)
+
 ## Project Planning Approaches
 Study & Research about Django Web > RnD all possible Concepts > Implementation Accumulated Data in Project > Build 1st Demo > Test & Debug System > Find loophole > Focus visualization > Project Enchancement > Finalize Project > QA Testing > Deploy Project in Staging Environment > Clone & Deploy in Live Environment > DR monthly
 
