@@ -63,6 +63,9 @@ https://github.com/sclorg/django-ex
 pwndoc
 https://github.com/pwndoc/pwndoc
 
+laravel report generator
+https://github.com/Jimmy-JS/laravel-report-generator
+
 ### Export Django from html to pdf
 wkhtmltopdf
 https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
