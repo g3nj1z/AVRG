@@ -9,6 +9,23 @@ Study & Research about Django Web > RnD all possible Concepts > Implementation A
 
 ## [Study & Research about Django Web](https://github.com/g3nj1z/Jom-Belajar-Django)
 
+### Build documentation/manual on Gitbook
+
+### Installation
+Production?
+
+### Roles
+List of permissions:
+1. Vulnerabilities
+- vulnerabilities:create
+- vulnerabilities:read
+- vulnerabilities:update
+- vulnerabilities:delete
+
+2. Settings
+- settings:read
+- settings:update
+
 ### Authentication and Authorization
 
 ## References
