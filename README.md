@@ -53,22 +53,18 @@ A Vulnerability is defined by:
 ## References
 
 ### Learn and research how to build Django Web Development from Zero
-cs50w - Django
-https://youtu.be/w8q0C-C1js4
+[cs50w - Django](https://youtu.be/w8q0C-C1js4)
 
 Example Project(s)
-https://github.com/sclorg/django-ex
+1. https://github.com/sclorg/django-ex
 
 ### Available public open source report generator
-pwndoc
-https://github.com/pwndoc/pwndoc
+[pwndoc](https://github.com/pwndoc/pwndoc)
 
-laravel report generator
-https://github.com/Jimmy-JS/laravel-report-generator
+[laravel report generator](https://github.com/Jimmy-JS/laravel-report-generator)
 
 ### Export Django from html to pdf
-wkhtmltopdf
-https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django
+[wkhtmltopdf](https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django)
 
 ### Generator graph/chart
 1. https://youtu.be/_SipEeFe-cw 
