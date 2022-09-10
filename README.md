@@ -3,7 +3,9 @@ still in development
 
 Don't spend countless minutes writing reports for people you work for. AVRG will take care of this.
 
-AVRG (automatic-VAPT-report-generator), a custom reporter for use with the Python Django framework. AVRG takes the test output from test and generates a full fledged PDF report that helps visualize your business cases.
+AVRG (automatic-VAPT-report-generator), a custom pentest reporting application using the Python Django framework. AVRG takes the test output from test and generates a full fledged PDF report that helps visualize your business cases. The main goal is to make report in less time than ever. 
+
+There is slightly different between pwndoc. We're providing server to generate which pentester just need to click and drop. To ensure integrity we will not save session/cache/data. 
 
 ## Features
 - Simple, clean, and modern design
