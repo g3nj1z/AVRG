@@ -1,4 +1,4 @@
-# Automatic-VAPT-Report-Generator
+# Automated-VAPT-Report-Generator
 still in development
 
 Improve the quality and performance of your workflow
