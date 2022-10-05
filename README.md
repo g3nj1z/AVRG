@@ -88,6 +88,7 @@ Example Project(s)
 ### Available public open source report generator
 [pwndoc](https://github.com/pwndoc/pwndoc)
 [BlackStone](https://github.com/micro-joan/BlackStone)
+https://stackoverflow.com/questions/69511125/report-builder-for-django
 
 [laravel report generator](https://github.com/Jimmy-JS/laravel-report-generator)
 
