@@ -94,6 +94,7 @@ https://stackoverflow.com/questions/69511125/report-builder-for-django
 
 ### Export Django from html to pdf
 [wkhtmltopdf](https://ourcodeworld.com/articles/read/241/how-to-create-a-pdf-from-html-in-django)
+[django-wkhtml](https://github.com/incuna/django-wkhtmltopdf)
 
 ### Generator graph/chart
 1. https://youtu.be/_SipEeFe-cw 
