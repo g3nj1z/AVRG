@@ -20,7 +20,7 @@ There is slightly different between pwndoc. We're providing server to generate w
 - test
 - test
 
-put inside docker like BlackStone
+put inside docker like BlackStone (Azure or AWS)
 
 ## Objectives
 Open-source generator that public can use / build custom for companies template
