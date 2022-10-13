@@ -103,3 +103,8 @@ https://spapas.github.io/2022/02/14/django-pdfs-2022/
 1. https://youtu.be/_SipEeFe-cw 
 2. https://youtu.be/6yTYP39d9Gs (use this concept to learn how to use .csv to generate output)
 3. https://github.com/jakupierblina/Youtube-expert-assist- (using chart.js to generate chart)
+
+
+
+https://stackoverflow.com/questions/12881294/django-create-a-zip-of-multiple-files-and-make-it-downloadable
+https://stackoverflow.com/questions/67454/serving-dynamically-generated-zip-archives-in-django
