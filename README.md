@@ -15,6 +15,10 @@ AVRG (automatic-VAPT-report-generator), a custom pentest reporting application u
 
 There is slightly different between pwndoc. We're providing server to generate which pentester just need to click and drop. To ensure integrity we will not save session/cache/data. 
 
+ 	
+ 	Because sometimes if too many findings make laptop hang and certain employees can’t generate report in time manners. They doesn’t need to save the pdf in their databases. They can put in /tmp which after employee download, it’ll goes to auto-delete (it makes sure that the intergrity ensure)
+
+
 ## Features
 - Simple, clean, and modern design
 - test
